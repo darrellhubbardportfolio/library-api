@@ -1,0 +1,44 @@
+[
+  {
+    "tablename": "books",
+    "books": [
+    {
+      "id": 1,
+      "title": "To Kill A Mockingbird",
+      "author": "Harper Lee",
+      "isbn": 9780060935467
+    },
+    {
+      "id": 2,
+      "title": "The Story Of An Hour",
+      "author": "Kate Chopin",
+      "isbn": 9780789154798
+    },
+    {
+      "id": 3,
+      "title": "Good Country Folks",
+      "author": "Flannery O'Connor ",
+      "isbn": 9788492683406
+    }
+    ]
+  },
+  {
+    "tablename": "patrons",
+    "patrons": [
+      {
+        "id": 1,
+        "firstname": "darrell",
+        "lastaname": "hubbard",
+        "cardnumber": 1234512345,
+        "pin": 1234
+      },
+      {
+        "id": 2,
+        "firstname": "eric",
+        "lastname": "johnson",
+        "cardnumber": 2345678632,
+        "pin": "4562"
+      }
+    ]
+  }
+]
